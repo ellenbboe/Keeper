@@ -1,8 +1,6 @@
 
 <h1 align="center">
-- ## 🌈Keeper
+🌈Keeper
 </h1>
 
-- [x] 每日 push `刷绿 profile 格子`,
-
-
+- [x] 每天`push`一下
